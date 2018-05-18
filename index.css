@@ -1,0 +1,9 @@
+#mapid{ 
+    height: 400px;
+    width: 550px; 
+}
+.div-map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

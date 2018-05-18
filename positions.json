@@ -1,0 +1,50 @@
+[
+	{
+		"datasetid": "positions-geo", 
+		"recordid": "1", 
+		"fields": 
+			{
+				"departement": "971", 
+				"stop_lat": 16.267359, 
+				"code_postal": "97139", 
+				"stop_lon": -61.513259, 
+				"coord": [16.267359, -61.513259], 
+				"stop_id": 1, 
+				"stop_desc": "Bureau Helium", 
+				"stop_name": "Dothipolis"
+			}, 
+		"record_timestamp": "2018-05-16T17:05:25-04:00"
+	},
+	{
+		"datasetid": "positions-geo", 
+		"recordid": "2", 
+		"fields": 
+			{
+				"departement": "971", 
+				"stop_lat": 16.264815, 
+				"code_postal": "97139", 
+				"stop_lon": -61.513066, 
+				"coord": [16.264815, -61.513066], 
+				"stop_id": 2, 
+				"stop_desc": "Centre Commercial", 
+				"stop_name": "Milenis"
+			}, 
+		"record_timestamp": "2018-05-16T17:05:25-04:00"
+	},
+	{
+		"datasetid": "positions-geo", 
+		"recordid": "3", 
+		"fields": 
+			{
+				"departement": "971", 
+				"stop_lat": 16.267740, 
+				"code_postal": "97139", 
+				"stop_lon": -61.516070, 
+				"coord": [16.267740, -61.516070], 
+				"stop_id": 3, 
+				"stop_desc": "Complexe Cinestar", 
+				"stop_name": "Cinestar"
+			}, 
+		"record_timestamp": "2018-05-16T17:05:25-04:00"
+	}
+]
